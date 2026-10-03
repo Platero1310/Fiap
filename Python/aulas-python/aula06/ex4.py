@@ -1,4 +1,4 @@
-num = int(input("Digite um númeo: "))
+num = int(input("Digite um número: "))
 
 # == vricação de igualade
 # atribuição de valores

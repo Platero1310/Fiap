@@ -5,3 +5,4 @@ litros =  float(input("Digite a quantidade do combustível gasto em litros: "))
 consumo = distancia/litros
 
 print("Consumo médio: ", consumo, " km/l")
+
